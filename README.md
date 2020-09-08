@@ -5,7 +5,7 @@ ____
 ____
 Computer Network project contains a packet tracer file where I have built a network topology *VLSM*, *static routing*, *rip*, *NAT/PAT* and *dhcp* commands. 
 
-![Network Topology]()
+![Network Topology](https://github.com/JoyKrishan/Undergraduate-Projects/blob/master/Computer%20Networks%20Project/Packet.JPG)
 
 ____
 
@@ -29,7 +29,7 @@ Password Protection
 
 False Door
 
-![False Door]()
+![False Door](https://github.com/JoyKrishan/Undergraduate-Projects/blob/master/Smart%20Security%20System%20with%20Password%20Protection%20and%20Automated%20False%20Door/Security_System_2.JPG)
 
 
 
