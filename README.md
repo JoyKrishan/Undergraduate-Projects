@@ -14,7 +14,7 @@ ____
 
 A digital mirror using Raspbery Pi that not only shows your reflection but also interacts with you in multiple ways making daily life easy.
 
-![Smart Mirror]()
+![Smart Mirror](https://github.com/JoyKrishan/Undergraduate-Projects/blob/master/Smart%20Mirror/Image.JPG)
 
 ____
 
@@ -25,7 +25,7 @@ We introduced a cost efficient, smart and strong security vault using Arduino, m
 
 Password Protection
 
-![Smart Security System]()
+![Smart Security System](https://github.com/JoyKrishan/Undergraduate-Projects/blob/master/Smart%20Security%20System%20with%20Password%20Protection%20and%20Automated%20False%20Door/Security_System.JPG)
 
 False Door
 
