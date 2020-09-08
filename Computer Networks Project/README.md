@@ -6,7 +6,7 @@ ___
 ___
 
 * Image of Network Topology
-![Network Topology](https://github.com/JoyKrishan/Computer-Networks-Project-/blob/master/Packet.JPG)
+![Network Topology](https://github.com/JoyKrishan/Undergraduate-Projects/blob/master/Computer%20Networks%20Project/Packet.JPG)
 
 
 
