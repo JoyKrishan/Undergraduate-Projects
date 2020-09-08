@@ -3,7 +3,7 @@ ____
 
 ## Computer Network Project
 ____
-Computer Network project contains a packet tracer file where I have built a network topology *VLSM*, *static routing*, *rip*, *NAT/PAT* and *dhcp* commands. 
+Computer Network project contains a packet tracer file where I have built a network topology *VLSM*, *static routing*, *rip*, *NAT/PAT* and *dhcp* commands. For full description [click here ](https://github.com/JoyKrishan/Undergraduate-Projects/tree/master/Computer%20Networks%20Project)
 
 ![Network Topology](https://github.com/JoyKrishan/Undergraduate-Projects/blob/master/Computer%20Networks%20Project/Packet.JPG)
 
