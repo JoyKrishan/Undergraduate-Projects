@@ -1,4 +1,4 @@
-### This repo contains some of my projects while I was pursuing my undergraduation in Computer Science and Engineering
+#### *This repo contains some of my projects while I was pursuing my undergraduation in Computer Science and Engineering*
 ____
 
 ## Computer Network Project
