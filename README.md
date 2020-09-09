@@ -23,11 +23,11 @@ ____
 
 We introduced a cost efficient, smart and strong security vault using Arduino, motors and various types of sensors. When a intruder tries to break in it raises a false door creating a hidden vault.
 
-Password Protection
+* Password Protection
 
 ![Smart Security System](https://github.com/JoyKrishan/Undergraduate-Projects/blob/master/Smart%20Security%20System%20with%20Password%20Protection%20and%20Automated%20False%20Door/Security_System.JPG)
 
-False Door
+* False Door
 
 ![False Door](https://github.com/JoyKrishan/Undergraduate-Projects/blob/master/Smart%20Security%20System%20with%20Password%20Protection%20and%20Automated%20False%20Door/Security_System_2.JPG)
 
